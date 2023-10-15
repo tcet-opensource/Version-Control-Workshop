@@ -40,9 +40,9 @@ We believe in the power of open source collaboration. By participating in this w
 Connect with us on social media for updates and more:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30">](https://twitter.com/tcetopensource)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30">](https://www.instagram.com/tcetopensource/)
+[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" width="30">](https://www.instagram.com/tcetopensource/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30">](https://github.com/tcet-opensource)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30">](https://www.youtube.com/@tcetopensource)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30">](https://discord.com/invite/r7ZhAREg2M)
+[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" width="30">](https://www.youtube.com/@tcetopensource)
+[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" width="30">](https://discord.com/invite/r7ZhAREg2M)
 
 Happy coding and collaborating! 💻✨

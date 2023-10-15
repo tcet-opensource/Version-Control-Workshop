@@ -37,14 +37,14 @@ git push
 We believe in the power of open source collaboration. By participating in this workshop, you're not only learning but also contributing to the global open source community. Every contribution counts!
 
 ## Resource
-<script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/wvmrfmzi.json"
-    trigger="in"
-    delay="1500"
-    state="in-unfold"
-    style="width:50px;height:50px">
-</lord-icon>
+<p align="center">
+  <a href="https://arsynthecatastrophe.notion.site/git-github-workshop-23f519477dae4f988783d0d63ed93853?pvs=4">
+    <img src="https://img.shields.io/badge/Resource-📗-blue" alt="Resource" style="height: 50px">
+  </a>
+</p>
+
+
+
 ## Social Links
 
 <div align="center">

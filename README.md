@@ -26,7 +26,7 @@ This repository is designed to help you get started with version control using G
    ```
 **Commit Your Name**: Open the `name.html` file, and add your name to the list of contributors. Then, commit your changes with the following commands:
 ```bash
-git add index.html
+git add name.html
 git commit -m "Added [Your Name] to the contributors"
 git push
 ```

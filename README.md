@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/tcet-opensource.png" alt="TCET Open Source Logo" width="200">
 </p>
+
 # TCET Open Source Git-GitHub Workshop
 
 Welcome to the TCET Open Source Git-GitHub Workshop! 🚀

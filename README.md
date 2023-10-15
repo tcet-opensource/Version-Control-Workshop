@@ -39,10 +39,22 @@ We believe in the power of open source collaboration. By participating in this w
 
 Connect with us on social media for updates and more:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30">](https://twitter.com/tcetopensource)
-[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" width="30">](https://www.instagram.com/tcetopensource/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30">](https://github.com/tcet-opensource)
-[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" width="30">](https://www.youtube.com/@tcetopensource)
-[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" width="30">](https://discord.com/invite/r7ZhAREg2M)
+<p align="center">
+  <a href="https://twitter.com/tcetopensource" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
+  </a>
+  <a href="https://www.instagram.com/tcetopensource/" style="text-decoration:none;">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
+  </a>
+  <a href="https://github.com/tcet-opensource" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
+  </a>
+  <a href="https://www.youtube.com/@tcetopensource" style="text-decoration:none;">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
+  </a>
+  <a href="https://discord.com/invite/r7ZhAREg2M" style="text-decoration:none;">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
+  </a>
+</p>
 
 Happy coding and collaborating! 💻✨

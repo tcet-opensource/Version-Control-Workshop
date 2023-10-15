@@ -37,24 +37,15 @@ We believe in the power of open source collaboration. By participating in this w
 
 ## Social Links
 
-Connect with us on social media for updates and more:
-
+<div align="center">
+<h3> Connect with us<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
 <p align="center">
-  <a href="https://twitter.com/tcetopensource" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
-  </a>
-  <a href="https://www.instagram.com/tcetopensource/" style="text-decoration:none;">
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
-  </a>
-  <a href="https://github.com/tcet-opensource" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
-  </a>
-  <a href="https://www.youtube.com/@tcetopensource" style="text-decoration:none;">
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
-  </a>
-  <a href="https://discord.com/invite/r7ZhAREg2M" style="text-decoration:none;">
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" width="30" style="filter: brightness(0) invert(1); margin: 10px;">
-  </a>
-</p>
+    <a href="https://twitter.com/tcetopensource" target="_blank"><img alt="Twitter" width="40px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.instagram.com/tcetopensource/" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://discord.gg/r7ZhAREg2M" target="_blank"><img alt="Discord" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a> &nbsp&nbsp&nbsp
+    <a href="mailto:opensource@tcetmumbai.in" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a> &nbsp&nbsp&nbsp 
+    <a href="https://www.linkedin.com/company/tcet-opensource/" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+</p> 
 
 Happy coding and collaborating! 💻✨

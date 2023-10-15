@@ -16,6 +16,7 @@ This repository is designed to help you get started with version control using G
 ## How to Get Started
 
 1. **Fork this Repository**: Click the "Fork" button at the top right of this page to create your copy of the repository. This will allow you to make changes without affecting the original.
+
 ![image](https://github.com/Aisu2635/git-workshop/assets/104310687/d0dfcad9-4212-4021-8272-c2965d74c6cc)
 
 2. **Clone your Fork**: After forking, open your forked repository and click the "Code" button. Copy the repository URL. Then, open your terminal and run the following command, replacing `[your-username]` with your GitHub username:

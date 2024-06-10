@@ -8,6 +8,32 @@ Welcome to the TCET Open Source Git-GitHub Workshop! 🚀
 
 This repository is designed to help you get started with version control using Git and GitHub. Whether you're a beginner or looking to refresh your knowledge, we've got you covered.
 
+> [!NOTE]
+> # Why no PRs are merged?
+> There are few reasons why no PRs are merged to the main branch
+> ### Key Issues
+> - Base Branch Mismatch: All the submitted PRs are created with the main branch as the base. While this is a common practice, it can lead to problems when multiple contributors are working on different features simultaneously.
+> - Merge Conflicts: Due to the base branch mismatch, when a PR is merged, it can cause merge conflicts with other pending PRs. These conflicts occur because the main branch has changed since the other PRs were created, making it difficult or impossible to automatically merge the changes.
+> ### Understanding the Problem
+> - When you fork a repository and make changes in your local branch, you're working on a snapshot of the original repository at the time you forked it. Meanwhile, the original repository (upstream) continues to evolve as other contributors merge their changes.
+> ## Here's what happens:
+> - You fork the repository and create a branch based on the main branch.
+> - You make changes and submit a PR to the original repository's main branch.
+> - Before your PR is reviewed or merged, another PR gets merged into the main branch.
+> - Now, your PR is based on an outdated version of the main branch, causing a merge conflict.
+> ## Solution
+> -  Keep Your Fork Updated: Regularly synchronize your fork with the upstream repository using `git pull upstream main`.
+>   This ensures that your fork's main branch stays up-to-date with the latest changes.
+> - Rebase Your Branch: Before submitting a PR or after updating your fork, rebase your feature branch onto the latest main:
+>   ```bash
+>   git checkout feature/your-branch
+>   git rebase origin/main
+>   ```
+>   This applies your changes on top of the latest main, reducing the likelihood of merge conflicts.
+> - Branch Management: Create a new branch for each feature, bug fix, or task you're working on.
+>   Use descriptive branch names like `feature/add-login`, `bugfix/fix-memory-leak`, or `docs/update-readme`.
+>   This keeps your changes isolated and makes it easier to manage conflicts.
+
 ## What is Git and GitHub?
 
 **Git** is a distributed version control system that helps you track changes in your project's source code over time. It allows multiple contributors to collaborate on a project efficiently.
